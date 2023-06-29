@@ -5,7 +5,8 @@ Thanks!
 
 
 <img src="https://badgen.net/badge/Contact/eym6565?icon=discord"> 
-
+<img src="https://badgen.net/badge/Payment/Crypto/yellow?icon=bitcoin">
+<img src="https://badgen.net/badge/Payment/Gift Cards/red?icon=awesome"
 <h1>Experiences</h1>
 
 <img src="https://img.shields.io/badge/HTML5-FF3300?style=for-the-badge&logo=html5&logoColor=white">
