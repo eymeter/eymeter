@@ -4,7 +4,7 @@ I can do commissions. I will try my best on them.
 Thanks!
 
 
-<img src="https://badgen.net/#badge/Contact/eym6565?icon=discord"> 
+<img src="https://badgen.net/badge/Contact/eym6565?icon=discord"> 
 
 <h1>Experiences</h1>
 
