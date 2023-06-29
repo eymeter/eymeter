@@ -1,3 +1,11 @@
+<h1>About Me</h1>
+I am a teenager programmer from Turkey. I am good at Python and C++, however I use or have experiences with JS, HTML, CSS, PHP, etc.
+I can do commissions. I will try my best on them.
+Thanks!
+
+
+<img src="https://badgen.net/#badge/Contact/eym6565?icon=discord"> 
+
 <h1>Experiences</h1>
 
 <img src="https://img.shields.io/badge/HTML5-FF3300?style=for-the-badge&logo=html5&logoColor=white">
