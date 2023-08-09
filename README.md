@@ -1,4 +1,4 @@
-<style>
+
   h1, h2 {
     font-family: Arial, sans-serif;
     color: #2f3e46;
@@ -20,7 +20,7 @@
   .badge-container img {
     margin-right: 10px;
   }
-</style>
+
 
 # About Me
 
